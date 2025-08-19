@@ -5,7 +5,7 @@
 ✉️ You can contact me at **talawww@hotmail.com**  
 📱 Phone: **+961 78841333**  
 🎓 Currently studying **B.S. in Computer Science, Antonine University (09/2022 – 09/2025)**  
-🧠 Always learning and improving my skills in **Full-Stack Development, Mobile Apps, and UI/UX Design**  
+🧠 Always learning and improving my skills in **Full-Stack Development, Web and mobile Apps, and UI/UX Design**  
 
 ---
 

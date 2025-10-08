@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills  
 
-- **Programming Languages**: C, C++, Java, C#, PHP, JavaScript, SQl/PlSQL, NOSQl, JavaFx
+- **Programming Languages**: C, C++, Java, C#, PHP, JavaScript, SQl/PLSQL, NOSQl, JavaFx
 - **Web Development**: HTML, CSS, React.js, Node.js, Laravel, Bootstrap, Tailwind CSS  
 - **Mobile Development**: React Native  
 - **Databases**: MySQL, MangoDB  

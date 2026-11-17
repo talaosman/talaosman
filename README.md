@@ -16,7 +16,7 @@
 - 🤖 Building AI-powered features, including **RAG-based chatbots**, and using AI coding agents like **Claude Code** to ship faster
 - 🌱 Always learning and growing in **full-stack development**, **web & mobile apps**, **cloud**, and **UI/UX design**
 - 📍 Based in **Lebanon**
-- 📫 Reach me at **talawww@hotmail.com** · 📱 **+961 78 841 333**
+- 📫 Reach me at **talaosman180@gmail.com** · 📱 **+961 78 841 333**
 
 ---
 
